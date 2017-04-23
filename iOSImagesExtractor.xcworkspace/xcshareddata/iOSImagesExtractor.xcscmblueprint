@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "474462D4C6652480C16AFE489C4613518BBF9A69",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2C2C614AB6F166E39CE6EEB2DF45620834BEF398" : 9223372036854775807,
+    "474462D4C6652480C16AFE489C4613518BBF9A69" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C5C417A4-84FA-4FC6-9F3B-1E42A8288AAA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2C2C614AB6F166E39CE6EEB2DF45620834BEF398" : "iOS-Images-Extractor\/CARExtractor\/CARExtractor\/",
+    "474462D4C6652480C16AFE489C4613518BBF9A69" : "iOS-Images-Extractor\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOSImagesExtractor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOSImagesExtractor.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Marxon13\/iOS-Asset-Extractor",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2C2C614AB6F166E39CE6EEB2DF45620834BEF398"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:devcxm\/iOS-Images-Extractor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "474462D4C6652480C16AFE489C4613518BBF9A69"
+    }
+  ]
+}
