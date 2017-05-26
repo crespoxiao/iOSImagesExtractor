@@ -2,6 +2,10 @@
 
 ### 本项目 fork 自 https://github.com/devcxm/iOS-Images-Extractor 下载下来直接就可以运行。主要改动是修复解压出来的文件命名的问题，基本是用来解压 Assets.car 文件。
 
+### 目前都解压不出 @3x 图片，可以试试我提供的脚本，适合自己的项目https://gist.github.com/crespoxiao/82c2fcc0fd08132e8b49e5116b282ab8
+
+
+
 * cartool 和 AssetCatalogTinkerer 都不能把 Assets.car 里面的 3X 图片解压出来。
 * https://github.com/steventroughtonsmith/cartool
 * https://github.com/insidegui/AssetCatalogTinkerer
